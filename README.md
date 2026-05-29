@@ -1,6 +1,6 @@
 # Gabriel Nobre
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B5A,100:5E1BFF&height=200&section=header&text=Gabriel%20Nobre&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B5A,100:9370DB&height=200&section=header&text=Gabriel%20Nobre&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 ## About Me
 
@@ -33,11 +33,11 @@ I am looking for opportunities to apply my knowledge in real-world scenarios and
         <td> <h3>Tech Stack</h3> </td>
     </tr>
     <tr>
-        <td>
+        <td style="background-color: transparent; border: none; padding: 0;">
             <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrieldsn2006&show_icons=true&theme=tokyonight"/> <br>
             <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieldsn2006&layout=compact&theme=tokyonight"/>
         </td>
-        <td style="vertical-align: top;">
+        <td style="background-color: transparent; border: none; vertical-align: top;">
 Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
