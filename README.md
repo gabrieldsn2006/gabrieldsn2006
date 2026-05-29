@@ -17,7 +17,7 @@ I have experience with data analysis and data processing, seeking to transform i
     <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">
             <marquee behavior="scroll" direction="left" scrollamount="9" style="padding: 0; margin-top: 0;"> 
-            <h4 style="font-weight: bold; padding: 0; margin: 0;"> Data Science | Computer Vision | Deep Learning | Data Engineering | Data Visualization | Data Analysis | Intelligent Systems </h4> 
+            <h4 style="font-weight: bold; padding: 0; margin: 0;"> Data Science | Machine Learning | Computer Vision | Deep Learning | Data Engineering | Data Visualization | Data Analysis | Intelligent Systems </h4> 
             </marquee>
         </td>
     </tr>
