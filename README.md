@@ -8,7 +8,7 @@ Computer Science student at UNIFOR focused on Data Science and Machine Learning.
 
 I have experience with data analysis and data processing, seeking to transform information into meaningful insights. I am constantly evolving in the field of Machine Learning, developing projects and deepening my understanding of fundamental concepts.
 
-<table style="width:100%; text-align:center; border-collapse: collapse;">
+<table style="width:100vw; text-align:center; border-collapse: collapse; margin: 0; padding: 0;">
     <tr>
         <th style="border: 1px solid #ddd; padding: 8px;">
             <p align="center" style="font-weight: bold; padding: 0; margin: 0;">My Main Areas of Interest</p>
