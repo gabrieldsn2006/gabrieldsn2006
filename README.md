@@ -1,6 +1,6 @@
 # Gabriel Nobre
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B5A,100:9370DB&height=200&section=header&text=Gabriel%20Nobre&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B5A,100:5E1BFF&height=200&section=header&text=Gabriel%20Nobre&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 ## About Me
 
